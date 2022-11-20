@@ -1,4 +1,4 @@
-from Titanic_Model import survive as sp
+from Titanic-Model_Classification import survive as sp
 import numpy as np
 from flask import Flask,request,render_template
 app = Flask(__name__)
