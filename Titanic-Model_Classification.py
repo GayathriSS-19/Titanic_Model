@@ -32,7 +32,7 @@ data
 
 #It is like hello world for EDA in Data Science
 #frst step is get the information 
-data.info()
+# data.info()
 
 
 # In[6]:
