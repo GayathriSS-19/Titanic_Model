@@ -23,7 +23,6 @@ packaging==21.3
 pandas==1.5.1
 Pillow==9.2.0
 playsound==1.2.2
-PyAudio @ file:///C:/Users/saisr/Downloads/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pyparsing==3.0.9
 python-dateutil==2.8.2
 python-dotenv==0.21.0
